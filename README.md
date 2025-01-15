@@ -1,7 +1,7 @@
 ## Hi there, all good?🤠
 
 - 👋 My name is Luiz Gustavo and im lerning computer science at Inteli
-- 🏫 I grow up at Goiânia(Goiás) studing at "Arena" high school, where i gain the oportunity to study at Inteli today, 
+- 🏫 I grow up at Goiânia(Goiás) studing at "Arena" high school, where i gain the oportunity to study at Inteli today.
 - 🎸 Eletronic guitar player - polyphia, unprocessed and some heavy stuff is what i like🤘
 - 🔭 Astronomy enthusiast
 
